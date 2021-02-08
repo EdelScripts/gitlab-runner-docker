@@ -1,0 +1,1 @@
+docker exec -it grunner gitlab-runner register
